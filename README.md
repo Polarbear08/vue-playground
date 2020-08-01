@@ -1,5 +1,7 @@
 # vue-playground
 
+Samples for Nuxt JS functionalities
+
 ## Build Setup
 
 ```bash

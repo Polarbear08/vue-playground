@@ -4,6 +4,10 @@ export default {
    ** See https://nuxtjs.org/api/configuration-mode
    */
   mode: 'spa',
+  server: {
+    host: '0.0.0.0',
+    port: 3000,
+  },
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
