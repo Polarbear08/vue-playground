@@ -1,5 +1,11 @@
 <template>
   <section class="section">
+    <div>
+      <nuxt-link to="/users/12">user 12</nuxt-link>
+    </div>
+    <div>
+      <nuxt-link to="/users/aaa">user aaa</nuxt-link>
+    </div>
     <div class="columns is-mobile">
       <card title="Free" icon="github">
         Open source on
